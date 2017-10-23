@@ -8,15 +8,20 @@ Sınıf | Öğrenci İsmi  | Numara
 10-C   | Tuğçe Yeşim | 418
 10-C   | Umut Şevval Berberoğlu | 421
 
-#  (buraya proje başlığını yazınız)
+#  Kahve Bardağı
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
-
+Fizikçiler kahve içmeyi çok severler, ancak bazen laboratuvarlar arasında yürürken kahve bardakları bile problem yaratabilir. 
+Biz deneyimizde bir bardak kahvenin dökülmesinde: bardağın şekli, yürüme hızı, tutuş tarzı ve benzeri etkenlerin ne ölçüde etkili olacağını matematiksel yollarla bulacağız. 
+İlk başta kabataslak bir şekilde yavaş, hızlı ve çok hızlı şekilde yürüyüp kahvenin bardak içinde oluşturduğu hareketleri gözlemleyeceğiz. İkinci adımımızda mekanik bir vibratörü bardağın altına yerleştirerek kahve üzerinde nasıl bir etki bıraktığını video ve fotoğraflar halinde kaydedeceğiz. 
+Sonra bardağı bir metronomdan faydalanarak ritmik şekilde dikey, yatay ve ileri-geri hareket ettirerek bunu accelerometer yardımıyla bulduğumuz sonuçları karşılaştıracağız.
+Daha sonra kolumuzu bir berk çubuk yardımıyla sabitleyip; biri üzerimizde, diğeri de bardağın üzerinde olmak üzere 2 accelerometer ile ivmeyi ölçerek eşit ve aynı sıklıktaki adımlarla yürüyeceğiz. Sonrasında aynı deneyi serbest elle tekrarlayacağız.
+Son kısımda ise bardağın oval veya simetrik, uzun veya kısa, büyük veya küçük olmasının dökülmesindeki etkilerini inceleyeceğiz.
+Daha sonra kaynaklardan bulmuş olduğumuz formülleri ve teorileri bu deney üzerine uygulayıp açıklayacağız.
+Çeşitli grafik ve şekillerle parametrelerdeki değişimleri karşılaştırıp deneyimizi sonlandıracağız.
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+1.Pavel, I & Budantsev, A. "Coffee Cup". Russia IYPT.
+http://solutions.iypt.org/uploads/2015_RU_Coffee_cup_Pavel_Ianko_Alexey_Budantsev_1441073232.pdf
+2.James, S. 'Problem No. 17 “Coffee cup”'. IYPT.
+http://webcache.googleusercontent.com/search?q=cache:http://kit.ilyam.org/FDD_2015_IYPT_Reference_kit.pdf
+3.Ahmadi, E. "How to Walk with a Cup of Coffee". IYPT Magazine.
+http://iyptmag.phy.ntnu.edu.tw/upload/journal/prog/dbcd956a_20161107.pdf
